@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "email": "juan.perez@email.com",
+      "password": "Contraseña123!",
+      "username": "jp25"
+    },
+    {
+      "id": "1",
+      "email": "maria.lopez@email.com",
+      "password": "MiContraseña2024#",
+      "username": "mlopez"
+    },
+    {
+      "id": "2",
+      "email": "carlos.gomez@email.com",
+      "password": "Passw0rd2023!",
+      "username": "cgomez"
+    },
+    {
+      "id": "3",
+      "email": "ana.martinez@email.com",
+      "password": "Seguro&Contraseña2023",
+      "username": "amart"
+    },
+    {
+      "id": "4",
+      "email": "luis.rodriguez@email.com",
+      "password": "ContraseñaSegura_99",
+      "username": "luisr"
+    },
+    {
+      "id": "d52f",
+      "username": "mlopezjjj",
+      "email": "robertrabjjjjanalreyes@gmail.com",
+      "password": "1263456"
+    },
+    {
+      "id": "9cc0",
+      "username": "mlopezjjj",
+      "email": "robertrabjjjjanalreyes@gmail.com",
+      "password": "1263456"
+    },
+    {
+      "id": "68c0",
+      "username": "mlopezjjj",
+      "email": "robertrabjjjjanalreyes@gmail.com",
+      "password": "1263456"
+    },
+    {
+      "id": "c968",
+      "username": "mlopezx",
+      "email": "robertrabanalreyes@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "9fb0",
+      "username": "mlopezxzxx<z",
+      "email": "robertrabanalreyegggs@gmail.com",
+      "password": "<zxzx"
+    },
+    {
+      "id": "3231",
+      "username": "1231sadasd",
+      "email": "roberasdasdastrabanalreyes@gmail.com",
+      "password": "dasdasddasd"
+    }
+  ]
+}
