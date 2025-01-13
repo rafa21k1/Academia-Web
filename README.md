@@ -1,2 +1,0 @@
-# Academia-Web
-Proyecto Tokio
